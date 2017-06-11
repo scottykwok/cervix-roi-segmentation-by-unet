@@ -1,0 +1,5787 @@
+[
+    {
+        "filename": "train/Type_3/1000.jpg", 
+        "annotations": [
+            {
+                "y": 952, 
+                "width": 544, 
+                "x": 944, 
+                "class": "rect", 
+                "height": 506
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1003.jpg", 
+        "annotations": [
+            {
+                "y": 1431, 
+                "width": 536, 
+                "x": 906, 
+                "class": "rect", 
+                "height": 398
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1004.jpg", 
+        "annotations": [
+            {
+                "y": 1372, 
+                "width": 524, 
+                "x": 1280, 
+                "class": "rect", 
+                "height": 457
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1007.jpg", 
+        "annotations": [
+            {
+                "y": 1356, 
+                "width": 1028, 
+                "x": 558, 
+                "class": "rect", 
+                "height": 730
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1008.jpg", 
+        "annotations": [
+            {
+                "y": 1455, 
+                "width": 810, 
+                "x": 1224, 
+                "class": "rect", 
+                "height": 637
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1009.jpg", 
+        "annotations": [
+            {
+                "y": 1409, 
+                "width": 1218, 
+                "x": 862, 
+                "class": "rect", 
+                "height": 1100
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1015.jpg", 
+        "annotations": [
+            {
+                "y": 1177, 
+                "width": 836, 
+                "x": 612, 
+                "class": "rect", 
+                "height": 708
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1020.jpg", 
+        "annotations": [
+            {
+                "y": 1480, 
+                "width": 576, 
+                "x": 894, 
+                "class": "rect", 
+                "height": 541
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1028.jpg", 
+        "annotations": [
+            {
+                "y": 976, 
+                "width": 1160, 
+                "x": 542, 
+                "class": "rect", 
+                "height": 594
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1029.jpg", 
+        "annotations": [
+            {
+                "y": 1366, 
+                "width": 780, 
+                "x": 588, 
+                "class": "rect", 
+                "height": 887
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1030.jpg", 
+        "annotations": [
+            {
+                "y": 1350, 
+                "width": 480, 
+                "x": 1000, 
+                "class": "rect", 
+                "height": 350
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1031.jpg", 
+        "annotations": [
+            {
+                "y": 2095, 
+                "width": 1598, 
+                "x": 702, 
+                "class": "rect", 
+                "height": 1141
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1034.jpg", 
+        "annotations": [
+            {
+                "y": 618, 
+                "width": 504, 
+                "x": 808, 
+                "class": "rect", 
+                "height": 754
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1037.jpg", 
+        "annotations": [
+            {
+                "y": 571, 
+                "width": 404, 
+                "x": 1254, 
+                "class": "rect", 
+                "height": 235
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1041.jpg", 
+        "annotations": [
+            {
+                "y": 1505, 
+                "width": 1260, 
+                "x": 638, 
+                "class": "rect", 
+                "height": 1071
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1045.jpg", 
+        "annotations": [
+            {
+                "y": 710, 
+                "width": 508, 
+                "x": 940, 
+                "class": "rect", 
+                "height": 514
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1048.jpg", 
+        "annotations": [
+            {
+                "y": 1817, 
+                "width": 814, 
+                "x": 638, 
+                "class": "rect", 
+                "height": 535
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1052.jpg", 
+        "annotations": [
+            {
+                "y": 292, 
+                "width": 698, 
+                "x": 1588, 
+                "class": "rect", 
+                "height": 834
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1053.jpg", 
+        "annotations": [
+            {
+                "y": 1248, 
+                "width": 568, 
+                "x": 1202, 
+                "class": "rect", 
+                "height": 822
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/106.jpg", 
+        "annotations": [
+            {
+                "y": 1007, 
+                "width": 622, 
+                "x": 730, 
+                "class": "rect", 
+                "height": 668
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1060.jpg", 
+        "annotations": [
+            {
+                "y": 1066, 
+                "width": 506, 
+                "x": 632, 
+                "class": "rect", 
+                "height": 485
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1062.jpg", 
+        "annotations": [
+            {
+                "y": 890, 
+                "width": 1326, 
+                "x": 640, 
+                "class": "rect", 
+                "height": 1304
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1063.jpg", 
+        "annotations": [
+            {
+                "y": 1035, 
+                "width": 1128, 
+                "x": 420, 
+                "class": "rect", 
+                "height": 949
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1064.jpg", 
+        "annotations": [
+            {
+                "y": 695, 
+                "width": 1392, 
+                "x": 616, 
+                "class": "rect", 
+                "height": 1481
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1069.jpg", 
+        "annotations": [
+            {
+                "y": 1477, 
+                "width": 890, 
+                "x": 878, 
+                "class": "rect", 
+                "height": 754
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/108.jpg", 
+        "annotations": [
+            {
+                "y": 734, 
+                "width": 2144, 
+                "x": 696, 
+                "class": "rect", 
+                "height": 1478
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1080.jpg", 
+        "annotations": [
+            {
+                "y": 782, 
+                "width": 844, 
+                "x": 748, 
+                "class": "rect", 
+                "height": 939
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1081.jpg", 
+        "annotations": [
+            {
+                "y": 1010, 
+                "width": 704, 
+                "x": 662, 
+                "class": "rect", 
+                "height": 495
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1082.jpg", 
+        "annotations": [
+            {
+                "y": 1390, 
+                "width": 932, 
+                "x": 842, 
+                "class": "rect", 
+                "height": 538
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1086.jpg", 
+        "annotations": [
+            {
+                "y": 1024, 
+                "width": 1672, 
+                "x": 408, 
+                "class": "rect", 
+                "height": 1446
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1088.jpg", 
+        "annotations": [
+            {
+                "y": 1106, 
+                "width": 616, 
+                "x": 1428, 
+                "class": "rect", 
+                "height": 602
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1092.jpg", 
+        "annotations": [
+            {
+                "y": 534, 
+                "width": 706, 
+                "x": 898, 
+                "class": "rect", 
+                "height": 1073
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1094.jpg", 
+        "annotations": [
+            {
+                "y": 1610, 
+                "width": 1120, 
+                "x": 700, 
+                "class": "rect", 
+                "height": 1450
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1095.jpg", 
+        "annotations": [
+            {
+                "y": 1690, 
+                "width": 862, 
+                "x": 792, 
+                "class": "rect", 
+                "height": 609
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/11.jpg", 
+        "annotations": [
+            {
+                "y": 797, 
+                "width": 926, 
+                "x": 774, 
+                "class": "rect", 
+                "height": 938
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1101.jpg", 
+        "annotations": [
+            {
+                "y": 1251, 
+                "width": 286, 
+                "x": 910, 
+                "class": "rect", 
+                "height": 285
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1107.jpg", 
+        "annotations": [
+            {
+                "y": 893, 
+                "width": 654, 
+                "x": 714, 
+                "class": "rect", 
+                "height": 788
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1108.jpg", 
+        "annotations": [
+            {
+                "y": 1602, 
+                "width": 904, 
+                "x": 1154, 
+                "class": "rect", 
+                "height": 997
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/111.jpg", 
+        "annotations": [
+            {
+                "y": 285, 
+                "width": 1696, 
+                "x": 944, 
+                "class": "rect", 
+                "height": 1822
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1110.jpg", 
+        "annotations": [
+            {
+                "y": 463, 
+                "width": 1246, 
+                "x": 728, 
+                "class": "rect", 
+                "height": 1577
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1111.jpg", 
+        "annotations": [
+            {
+                "y": 2427, 
+                "width": 1246, 
+                "x": 762, 
+                "class": "rect", 
+                "height": 1294
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1112.jpg", 
+        "annotations": [
+            {
+                "y": 1094, 
+                "width": 650, 
+                "x": 1118, 
+                "class": "rect", 
+                "height": 700
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1113.jpg", 
+        "annotations": [
+            {
+                "y": 1437, 
+                "width": 418, 
+                "x": 694, 
+                "class": "rect", 
+                "height": 358
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1120.jpg", 
+        "annotations": [
+            {
+                "y": 832, 
+                "width": 1490, 
+                "x": 710, 
+                "class": "rect", 
+                "height": 1716
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1127.jpg", 
+        "annotations": [
+            {
+                "y": 1428, 
+                "width": 1236, 
+                "x": 718, 
+                "class": "rect", 
+                "height": 816
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1128.jpg", 
+        "annotations": [
+            {
+                "y": 1217, 
+                "width": 514, 
+                "x": 962, 
+                "class": "rect", 
+                "height": 467
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1129.jpg", 
+        "annotations": [
+            {
+                "y": 1755, 
+                "width": 982, 
+                "x": 1712, 
+                "class": "rect", 
+                "height": 1059
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/113.jpg", 
+        "annotations": [
+            {
+                "y": 1313, 
+                "width": 760, 
+                "x": 920, 
+                "class": "rect", 
+                "height": 915
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1133.jpg", 
+        "annotations": [
+            {
+                "y": 791, 
+                "width": 332, 
+                "x": 1254, 
+                "class": "rect", 
+                "height": 297
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1137.jpg", 
+        "annotations": [
+            {
+                "y": 1112, 
+                "width": 722, 
+                "x": 1050, 
+                "class": "rect", 
+                "height": 600
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/114.jpg", 
+        "annotations": [
+            {
+                "y": 880, 
+                "width": 410, 
+                "x": 862, 
+                "class": "rect", 
+                "height": 365
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1150.jpg", 
+        "annotations": [
+            {
+                "y": 720, 
+                "width": 1118, 
+                "x": 386, 
+                "class": "rect", 
+                "height": 939
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1153.jpg", 
+        "annotations": [
+            {
+                "y": 1035, 
+                "width": 724, 
+                "x": 864, 
+                "class": "rect", 
+                "height": 488
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1157.jpg", 
+        "annotations": [
+            {
+                "y": 1913, 
+                "width": 518, 
+                "x": 878, 
+                "class": "rect", 
+                "height": 411
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1162.jpg", 
+        "annotations": [
+            {
+                "y": 933, 
+                "width": 910, 
+                "x": 888, 
+                "class": "rect", 
+                "height": 918
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1163.jpg", 
+        "annotations": [
+            {
+                "y": 1084, 
+                "width": 1054, 
+                "x": 540, 
+                "class": "rect", 
+                "height": 807
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1164.jpg", 
+        "annotations": [
+            {
+                "y": 1782, 
+                "width": 686, 
+                "x": 788, 
+                "class": "rect", 
+                "height": 622
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1165.jpg", 
+        "annotations": [
+            {
+                "y": 1098, 
+                "width": 410, 
+                "x": 1314, 
+                "class": "rect", 
+                "height": 283
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1166.jpg", 
+        "annotations": [
+            {
+                "y": 1060, 
+                "width": 490, 
+                "x": 1138, 
+                "class": "rect", 
+                "height": 525
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1167.jpg", 
+        "annotations": [
+            {
+                "y": 1341, 
+                "width": 1306, 
+                "x": 276, 
+                "class": "rect", 
+                "height": 801
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1177.jpg", 
+        "annotations": [
+            {
+                "y": 1102, 
+                "width": 550, 
+                "x": 1782, 
+                "class": "rect", 
+                "height": 533
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/118.jpg", 
+        "annotations": [
+            {
+                "y": 723, 
+                "width": 926, 
+                "x": 860, 
+                "class": "rect", 
+                "height": 977
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1182.jpg", 
+        "annotations": [
+            {
+                "y": 1647, 
+                "width": 370, 
+                "x": 978, 
+                "class": "rect", 
+                "height": 374
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1183.jpg", 
+        "annotations": [
+            {
+                "y": 527, 
+                "width": 1720, 
+                "x": 730, 
+                "class": "rect", 
+                "height": 1490
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1191.jpg", 
+        "annotations": [
+            {
+                "y": 853, 
+                "width": 784, 
+                "x": 756, 
+                "class": "rect", 
+                "height": 698
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1200.jpg", 
+        "annotations": [
+            {
+                "y": 1523, 
+                "width": 238, 
+                "x": 898, 
+                "class": "rect", 
+                "height": 322
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1206.jpg", 
+        "annotations": [
+            {
+                "y": 1442, 
+                "width": 788, 
+                "x": 1058, 
+                "class": "rect", 
+                "height": 981
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1207.jpg", 
+        "annotations": [
+            {
+                "y": 1752, 
+                "width": 294, 
+                "x": 1122, 
+                "class": "rect", 
+                "height": 535
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1208.jpg", 
+        "annotations": [
+            {
+                "y": 1895, 
+                "width": 892, 
+                "x": 608, 
+                "class": "rect", 
+                "height": 1185
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1221.jpg", 
+        "annotations": [
+            {
+                "y": 1369, 
+                "width": 380, 
+                "x": 1960, 
+                "class": "rect", 
+                "height": 423
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1224.jpg", 
+        "annotations": [
+            {
+                "y": 2036, 
+                "width": 1298, 
+                "x": 554, 
+                "class": "rect", 
+                "height": 1036
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1232.jpg", 
+        "annotations": [
+            {
+                "y": 1055, 
+                "width": 970, 
+                "x": 1378, 
+                "class": "rect", 
+                "height": 1263
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1235.jpg", 
+        "annotations": [
+            {
+                "y": 998, 
+                "width": 952, 
+                "x": 740, 
+                "class": "rect", 
+                "height": 618
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1237.jpg", 
+        "annotations": [
+            {
+                "y": 1165, 
+                "width": 510, 
+                "x": 920, 
+                "class": "rect", 
+                "height": 501
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1244.jpg", 
+        "annotations": [
+            {
+                "y": 933, 
+                "width": 608, 
+                "x": 758, 
+                "class": "rect", 
+                "height": 1168
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1248.jpg", 
+        "annotations": [
+            {
+                "y": 184, 
+                "width": 872, 
+                "x": 1958, 
+                "class": "rect", 
+                "height": 1399
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/125.jpg", 
+        "annotations": [
+            {
+                "y": 1594, 
+                "width": 484, 
+                "x": 880, 
+                "class": "rect", 
+                "height": 473
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1252.jpg", 
+        "annotations": [
+            {
+                "y": 903, 
+                "width": 620, 
+                "x": 2116, 
+                "class": "rect", 
+                "height": 652
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1254.jpg", 
+        "annotations": [
+            {
+                "y": 1057, 
+                "width": 560, 
+                "x": 856, 
+                "class": "rect", 
+                "height": 782
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1256.jpg", 
+        "annotations": [
+            {
+                "y": 840, 
+                "width": 1522, 
+                "x": 332, 
+                "class": "rect", 
+                "height": 1673
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1259.jpg", 
+        "annotations": [
+            {
+                "y": 1044, 
+                "width": 854, 
+                "x": 598, 
+                "class": "rect", 
+                "height": 832
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1265.jpg", 
+        "annotations": [
+            {
+                "y": 1806, 
+                "width": 560, 
+                "x": 1072, 
+                "class": "rect", 
+                "height": 547
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1268.jpg", 
+        "annotations": [
+            {
+                "y": 1020, 
+                "width": 514, 
+                "x": 968, 
+                "class": "rect", 
+                "height": 608
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1270.jpg", 
+        "annotations": [
+            {
+                "y": 35, 
+                "width": 942, 
+                "x": 1046, 
+                "class": "rect", 
+                "height": 828
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1275.jpg", 
+        "annotations": [
+            {
+                "y": 1231, 
+                "width": 480, 
+                "x": 1650, 
+                "class": "rect", 
+                "height": 977
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1277.jpg", 
+        "annotations": [
+            {
+                "y": 1214, 
+                "width": 782, 
+                "x": 732, 
+                "class": "rect", 
+                "height": 705
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1278.jpg", 
+        "annotations": [
+            {
+                "y": 1023, 
+                "width": 536, 
+                "x": 976, 
+                "class": "rect", 
+                "height": 945
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1280.jpg", 
+        "annotations": [
+            {
+                "y": 2027, 
+                "width": 852, 
+                "x": 944, 
+                "class": "rect", 
+                "height": 918
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1284.jpg", 
+        "annotations": [
+            {
+                "y": 510, 
+                "width": 1020, 
+                "x": 400, 
+                "class": "rect", 
+                "height": 652
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1286.jpg", 
+        "annotations": [
+            {
+                "y": 352, 
+                "width": 746, 
+                "x": 540, 
+                "class": "rect", 
+                "height": 671
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1287.jpg", 
+        "annotations": [
+            {
+                "y": 877, 
+                "width": 1502, 
+                "x": 346, 
+                "class": "rect", 
+                "height": 965
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1291.jpg", 
+        "annotations": [
+            {
+                "y": 1307, 
+                "width": 588, 
+                "x": 982, 
+                "class": "rect", 
+                "height": 881
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1296.jpg", 
+        "annotations": [
+            {
+                "y": 989, 
+                "width": 1098, 
+                "x": 1104, 
+                "class": "rect", 
+                "height": 1184
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/130.jpg", 
+        "annotations": [
+            {
+                "y": 1455, 
+                "width": 736, 
+                "x": 1104, 
+                "class": "rect", 
+                "height": 1150
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1300.jpg", 
+        "annotations": [
+            {
+                "y": 312, 
+                "width": 610, 
+                "x": 536, 
+                "class": "rect", 
+                "height": 652
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1306.jpg", 
+        "annotations": [
+            {
+                "y": 1369, 
+                "width": 496, 
+                "x": 1174, 
+                "class": "rect", 
+                "height": 556
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1309.jpg", 
+        "annotations": [
+            {
+                "y": 1199, 
+                "width": 724, 
+                "x": 1130, 
+                "class": "rect", 
+                "height": 909
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/132.jpg", 
+        "annotations": [
+            {
+                "y": 1366, 
+                "width": 372, 
+                "x": 1224, 
+                "class": "rect", 
+                "height": 300
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1323.jpg", 
+        "annotations": [
+            {
+                "y": 1010, 
+                "width": 476, 
+                "x": 1028, 
+                "class": "rect", 
+                "height": 411
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1332.jpg", 
+        "annotations": [
+            {
+                "y": 1536, 
+                "width": 460, 
+                "x": 660, 
+                "class": "rect", 
+                "height": 578
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1333.jpg", 
+        "annotations": [
+            {
+                "y": 1950, 
+                "width": 1474, 
+                "x": 906, 
+                "class": "rect", 
+                "height": 1134
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1335.jpg", 
+        "annotations": [
+            {
+                "y": 860, 
+                "width": 1472, 
+                "x": 228, 
+                "class": "rect", 
+                "height": 1497
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1341.jpg", 
+        "annotations": [
+            {
+                "y": 803, 
+                "width": 632, 
+                "x": 1324, 
+                "class": "rect", 
+                "height": 519
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1347.jpg", 
+        "annotations": [
+            {
+                "y": 1378, 
+                "width": 390, 
+                "x": 1000, 
+                "class": "rect", 
+                "height": 526
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/135.jpg", 
+        "annotations": [
+            {
+                "y": 958, 
+                "width": 770, 
+                "x": 1008, 
+                "class": "rect", 
+                "height": 806
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1350.jpg", 
+        "annotations": [
+            {
+                "y": 1499, 
+                "width": 658, 
+                "x": 700, 
+                "class": "rect", 
+                "height": 550
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1351.jpg", 
+        "annotations": [
+            {
+                "y": 1153, 
+                "width": 1140, 
+                "x": 784, 
+                "class": "rect", 
+                "height": 1477
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1355.jpg", 
+        "annotations": [
+            {
+                "y": 1415, 
+                "width": 696, 
+                "x": 970, 
+                "class": "rect", 
+                "height": 798
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1360.jpg", 
+        "annotations": [
+            {
+                "y": 1047, 
+                "width": 1068, 
+                "x": 956, 
+                "class": "rect", 
+                "height": 1407
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1364.jpg", 
+        "annotations": [
+            {
+                "y": 1193, 
+                "width": 734, 
+                "x": 638, 
+                "class": "rect", 
+                "height": 664
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1366.jpg", 
+        "annotations": [
+            {
+                "y": 1737, 
+                "width": 620, 
+                "x": 942, 
+                "class": "rect", 
+                "height": 479
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1367.jpg", 
+        "annotations": [
+            {
+                "y": 871, 
+                "width": 364, 
+                "x": 1458, 
+                "class": "rect", 
+                "height": 331
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1372.jpg", 
+        "annotations": [
+            {
+                "y": 818, 
+                "width": 434, 
+                "x": 1964, 
+                "class": "rect", 
+                "height": 461
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1374.jpg", 
+        "annotations": [
+            {
+                "y": 985, 
+                "width": 898, 
+                "x": 126, 
+                "class": "rect", 
+                "height": 1168
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1375.jpg", 
+        "annotations": [
+            {
+                "y": 831, 
+                "width": 786, 
+                "x": 1048, 
+                "class": "rect", 
+                "height": 767
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1382.jpg", 
+        "annotations": [
+            {
+                "y": 1542, 
+                "width": 380, 
+                "x": 866, 
+                "class": "rect", 
+                "height": 603
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1387.jpg", 
+        "annotations": [
+            {
+                "y": 2071, 
+                "width": 626, 
+                "x": 1398, 
+                "class": "rect", 
+                "height": 739
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1394.jpg", 
+        "annotations": [
+            {
+                "y": 1653, 
+                "width": 462, 
+                "x": 1058, 
+                "class": "rect", 
+                "height": 455
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1396.jpg", 
+        "annotations": [
+            {
+                "y": 1575, 
+                "width": 1360, 
+                "x": 830, 
+                "class": "rect", 
+                "height": 1599
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1397.jpg", 
+        "annotations": [
+            {
+                "y": 1298, 
+                "width": 756, 
+                "x": 402, 
+                "class": "rect", 
+                "height": 1072
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1400.jpg", 
+        "annotations": [
+            {
+                "y": 537, 
+                "width": 1354, 
+                "x": 698, 
+                "class": "rect", 
+                "height": 1459
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1401.jpg", 
+        "annotations": [
+            {
+                "y": 602, 
+                "width": 682, 
+                "x": 1572, 
+                "class": "rect", 
+                "height": 891
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1402.jpg", 
+        "annotations": [
+            {
+                "y": 658, 
+                "width": 426, 
+                "x": 1252, 
+                "class": "rect", 
+                "height": 501
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1403.jpg", 
+        "annotations": [
+            {
+                "y": 1721, 
+                "width": 542, 
+                "x": 746, 
+                "class": "rect", 
+                "height": 643
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1404.jpg", 
+        "annotations": [
+            {
+                "y": 704, 
+                "width": 1338, 
+                "x": 538, 
+                "class": "rect", 
+                "height": 1203
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1408.jpg", 
+        "annotations": [
+            {
+                "y": 1709, 
+                "width": 536, 
+                "x": 816, 
+                "class": "rect", 
+                "height": 825
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1409.jpg", 
+        "annotations": [
+            {
+                "y": 1360, 
+                "width": 490, 
+                "x": 772, 
+                "class": "rect", 
+                "height": 605
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/141.jpg", 
+        "annotations": [
+            {
+                "y": 1409, 
+                "width": 878, 
+                "x": 818, 
+                "class": "rect", 
+                "height": 575
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1410.jpg", 
+        "annotations": [
+            {
+                "y": 1594, 
+                "width": 950, 
+                "x": 1392, 
+                "class": "rect", 
+                "height": 1013
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1412.jpg", 
+        "annotations": [
+            {
+                "y": 1446, 
+                "width": 1282, 
+                "x": 938, 
+                "class": "rect", 
+                "height": 1388
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1417.jpg", 
+        "annotations": [
+            {
+                "y": 1978, 
+                "width": 686, 
+                "x": 1142, 
+                "class": "rect", 
+                "height": 1086
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1420.jpg", 
+        "annotations": [
+            {
+                "y": 1063, 
+                "width": 584, 
+                "x": 988, 
+                "class": "rect", 
+                "height": 599
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1423.jpg", 
+        "annotations": [
+            {
+                "y": 1029, 
+                "width": 412, 
+                "x": 804, 
+                "class": "rect", 
+                "height": 448
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1425.jpg", 
+        "annotations": [
+            {
+                "y": 704, 
+                "width": 620, 
+                "x": 602, 
+                "class": "rect", 
+                "height": 751
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1429.jpg", 
+        "annotations": [
+            {
+                "y": 613, 
+                "width": 1178, 
+                "x": 536, 
+                "class": "rect", 
+                "height": 1447
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/143.jpg", 
+        "annotations": [
+            {
+                "y": 1548, 
+                "width": 480, 
+                "x": 794, 
+                "class": "rect", 
+                "height": 631
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1442.jpg", 
+        "annotations": [
+            {
+                "y": 1712, 
+                "width": 640, 
+                "x": 628, 
+                "class": "rect", 
+                "height": 981
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1447.jpg", 
+        "annotations": [
+            {
+                "y": 2052, 
+                "width": 1018, 
+                "x": 648, 
+                "class": "rect", 
+                "height": 1337
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1448.jpg", 
+        "annotations": [
+            {
+                "y": 635, 
+                "width": 528, 
+                "x": 1136, 
+                "class": "rect", 
+                "height": 410
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/145.jpg", 
+        "annotations": [
+            {
+                "y": 1231, 
+                "width": 2276, 
+                "x": 576, 
+                "class": "rect", 
+                "height": 2314
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1455.jpg", 
+        "annotations": [
+            {
+                "y": 1465, 
+                "width": 434, 
+                "x": 776, 
+                "class": "rect", 
+                "height": 401
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1458.jpg", 
+        "annotations": [
+            {
+                "y": 1403, 
+                "width": 1072, 
+                "x": 868, 
+                "class": "rect", 
+                "height": 1249
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1459.jpg", 
+        "annotations": [
+            {
+                "y": 1335, 
+                "width": 602, 
+                "x": 1028, 
+                "class": "rect", 
+                "height": 596
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/146.jpg", 
+        "annotations": [
+            {
+                "y": 1880, 
+                "width": 472, 
+                "x": 334, 
+                "class": "rect", 
+                "height": 426
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1460.jpg", 
+        "annotations": [
+            {
+                "y": 1118, 
+                "width": 1928, 
+                "x": 846, 
+                "class": "rect", 
+                "height": 1309
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1461.jpg", 
+        "annotations": [
+            {
+                "y": 1091, 
+                "width": 534, 
+                "x": 622, 
+                "class": "rect", 
+                "height": 544
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1469.jpg", 
+        "annotations": [
+            {
+                "y": 1576, 
+                "width": 464, 
+                "x": 902, 
+                "class": "rect", 
+                "height": 711
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1470.jpg", 
+        "annotations": [
+            {
+                "y": 1038, 
+                "width": 398, 
+                "x": 968, 
+                "class": "rect", 
+                "height": 501
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1475.jpg", 
+        "annotations": [
+            {
+                "y": 401, 
+                "width": 1190, 
+                "x": 830, 
+                "class": "rect", 
+                "height": 1122
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1477.jpg", 
+        "annotations": [
+            {
+                "y": 599, 
+                "width": 536, 
+                "x": 920, 
+                "class": "rect", 
+                "height": 869
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/1479.jpg", 
+        "annotations": [
+            {
+                "y": 191, 
+                "width": 1462, 
+                "x": 426, 
+                "class": "rect", 
+                "height": 1400
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/150.jpg", 
+        "annotations": [
+            {
+                "y": 1177, 
+                "width": 470, 
+                "x": 1170, 
+                "class": "rect", 
+                "height": 668
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/154.jpg", 
+        "annotations": [
+            {
+                "y": 1106, 
+                "width": 688, 
+                "x": 860, 
+                "class": "rect", 
+                "height": 556
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/155.jpg", 
+        "annotations": [
+            {
+                "y": 893, 
+                "width": 868, 
+                "x": 698, 
+                "class": "rect", 
+                "height": 739
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/158.jpg", 
+        "annotations": [
+            {
+                "y": 550, 
+                "width": 544, 
+                "x": 706, 
+                "class": "rect", 
+                "height": 912
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/16.jpg", 
+        "annotations": [
+            {
+                "y": 1340, 
+                "width": 1258, 
+                "x": 706, 
+                "class": "rect", 
+                "height": 1845
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/163.jpg", 
+        "annotations": [
+            {
+                "y": 788, 
+                "width": 558, 
+                "x": 1060, 
+                "class": "rect", 
+                "height": 689
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/166.jpg", 
+        "annotations": [
+            {
+                "y": 1394, 
+                "width": 302, 
+                "x": 1186, 
+                "class": "rect", 
+                "height": 476
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/169.jpg", 
+        "annotations": [
+            {
+                "y": 1350, 
+                "width": 490, 
+                "x": 1274, 
+                "class": "rect", 
+                "height": 486
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/170.jpg", 
+        "annotations": [
+            {
+                "y": 1264, 
+                "width": 450, 
+                "x": 1024, 
+                "class": "rect", 
+                "height": 550
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/172.jpg", 
+        "annotations": [
+            {
+                "y": 930, 
+                "width": 690, 
+                "x": 1100, 
+                "class": "rect", 
+                "height": 658
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/174.jpg", 
+        "annotations": [
+            {
+                "y": 1267, 
+                "width": 372, 
+                "x": 1346, 
+                "class": "rect", 
+                "height": 479
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/179.jpg", 
+        "annotations": [
+            {
+                "y": 1626, 
+                "width": 662, 
+                "x": 1430, 
+                "class": "rect", 
+                "height": 793
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/18.jpg", 
+        "annotations": [
+            {
+                "y": 1747, 
+                "width": 1396, 
+                "x": 876, 
+                "class": "rect", 
+                "height": 1743
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/187.jpg", 
+        "annotations": [
+            {
+                "y": 1551, 
+                "width": 1142, 
+                "x": 214, 
+                "class": "rect", 
+                "height": 642
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/188.jpg", 
+        "annotations": [
+            {
+                "y": 1555, 
+                "width": 650, 
+                "x": 1402, 
+                "class": "rect", 
+                "height": 778
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/193.jpg", 
+        "annotations": [
+            {
+                "y": 949, 
+                "width": 1004, 
+                "x": 630, 
+                "class": "rect", 
+                "height": 1556
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/194.jpg", 
+        "annotations": [
+            {
+                "y": 555, 
+                "width": 684, 
+                "x": 890, 
+                "class": "rect", 
+                "height": 1141
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/196.jpg", 
+        "annotations": [
+            {
+                "y": 1207, 
+                "width": 392, 
+                "x": 908, 
+                "class": "rect", 
+                "height": 260
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/197.jpg", 
+        "annotations": [
+            {
+                "y": 1326, 
+                "width": 634, 
+                "x": 694, 
+                "class": "rect", 
+                "height": 828
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/199.jpg", 
+        "annotations": [
+            {
+                "y": 1137, 
+                "width": 420, 
+                "x": 1006, 
+                "class": "rect", 
+                "height": 538
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/20.jpg", 
+        "annotations": [
+            {
+                "y": 1400, 
+                "width": 846, 
+                "x": 652, 
+                "class": "rect", 
+                "height": 881
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/200.jpg", 
+        "annotations": [
+            {
+                "y": 553, 
+                "width": 512, 
+                "x": 1060, 
+                "class": "rect", 
+                "height": 773
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/202.jpg", 
+        "annotations": [
+            {
+                "y": 664, 
+                "width": 820, 
+                "x": 1310, 
+                "class": "rect", 
+                "height": 1575
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/207.jpg", 
+        "annotations": [
+            {
+                "y": 1190, 
+                "width": 582, 
+                "x": 1294, 
+                "class": "rect", 
+                "height": 482
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/211.jpg", 
+        "annotations": [
+            {
+                "y": 1109, 
+                "width": 386, 
+                "x": 860, 
+                "class": "rect", 
+                "height": 733
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/212.jpg", 
+        "annotations": [
+            {
+                "y": 828, 
+                "width": 512, 
+                "x": 566, 
+                "class": "rect", 
+                "height": 464
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/214.jpg", 
+        "annotations": [
+            {
+                "y": 1814, 
+                "width": 578, 
+                "x": 1084, 
+                "class": "rect", 
+                "height": 423
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/217.jpg", 
+        "annotations": [
+            {
+                "y": 1505, 
+                "width": 578, 
+                "x": 958, 
+                "class": "rect", 
+                "height": 544
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/220.jpg", 
+        "annotations": [
+            {
+                "y": 1508, 
+                "width": 808, 
+                "x": 894, 
+                "class": "rect", 
+                "height": 467
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/221.jpg", 
+        "annotations": [
+            {
+                "y": 754, 
+                "width": 742, 
+                "x": 608, 
+                "class": "rect", 
+                "height": 460
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/222.jpg", 
+        "annotations": [
+            {
+                "y": 1168, 
+                "width": 340, 
+                "x": 1270, 
+                "class": "rect", 
+                "height": 501
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/226.jpg", 
+        "annotations": [
+            {
+                "y": 1747, 
+                "width": 1324, 
+                "x": 772, 
+                "class": "rect", 
+                "height": 1521
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/228.jpg", 
+        "annotations": [
+            {
+                "y": 1133, 
+                "width": 930, 
+                "x": 674, 
+                "class": "rect", 
+                "height": 868
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/23.jpg", 
+        "annotations": [
+            {
+                "y": 2662, 
+                "width": 1048, 
+                "x": 988, 
+                "class": "rect", 
+                "height": 961
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/232.jpg", 
+        "annotations": [
+            {
+                "y": 1298, 
+                "width": 522, 
+                "x": 948, 
+                "class": "rect", 
+                "height": 698
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/242.jpg", 
+        "annotations": [
+            {
+                "y": 848, 
+                "width": 2204, 
+                "x": 474, 
+                "class": "rect", 
+                "height": 2259
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/247.jpg", 
+        "annotations": [
+            {
+                "y": 417, 
+                "width": 1250, 
+                "x": 524, 
+                "class": "rect", 
+                "height": 992
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/249.jpg", 
+        "annotations": [
+            {
+                "y": 1035, 
+                "width": 1266, 
+                "x": 924, 
+                "class": "rect", 
+                "height": 915
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/25.jpg", 
+        "annotations": [
+            {
+                "y": 1777, 
+                "width": 750, 
+                "x": 688, 
+                "class": "rect", 
+                "height": 717
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/253.jpg", 
+        "annotations": [
+            {
+                "y": 2005, 
+                "width": 798, 
+                "x": 760, 
+                "class": "rect", 
+                "height": 895
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/256.jpg", 
+        "annotations": [
+            {
+                "y": 1220, 
+                "width": 702, 
+                "x": 582, 
+                "class": "rect", 
+                "height": 752
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/258.jpg", 
+        "annotations": [
+            {
+                "y": 806, 
+                "width": 488, 
+                "x": 1030, 
+                "class": "rect", 
+                "height": 609
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/259.jpg", 
+        "annotations": [
+            {
+                "y": 1004, 
+                "width": 276, 
+                "x": 1470, 
+                "class": "rect", 
+                "height": 600
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/260.jpg", 
+        "annotations": [
+            {
+                "y": 794, 
+                "width": 716, 
+                "x": 886, 
+                "class": "rect", 
+                "height": 831
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/261.jpg", 
+        "annotations": [
+            {
+                "y": 903, 
+                "width": 1154, 
+                "x": 1208, 
+                "class": "rect", 
+                "height": 1247
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/263.jpg", 
+        "annotations": [
+            {
+                "y": 537, 
+                "width": 850, 
+                "x": 860, 
+                "class": "rect", 
+                "height": 795
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/269.jpg", 
+        "annotations": [
+            {
+                "y": 1055, 
+                "width": 1602, 
+                "x": 640, 
+                "class": "rect", 
+                "height": 1290
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/272.jpg", 
+        "annotations": [
+            {
+                "y": 1192, 
+                "width": 2130, 
+                "x": 508, 
+                "class": "rect", 
+                "height": 2181
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/273.jpg", 
+        "annotations": [
+            {
+                "y": 497, 
+                "width": 910, 
+                "x": 492, 
+                "class": "rect", 
+                "height": 770
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/275.jpg", 
+        "annotations": [
+            {
+                "y": 744, 
+                "width": 362, 
+                "x": 636, 
+                "class": "rect", 
+                "height": 408
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/277.jpg", 
+        "annotations": [
+            {
+                "y": 1041, 
+                "width": 706, 
+                "x": 938, 
+                "class": "rect", 
+                "height": 575
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/280.jpg", 
+        "annotations": [
+            {
+                "y": 973, 
+                "width": 458, 
+                "x": 922, 
+                "class": "rect", 
+                "height": 485
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/286.jpg", 
+        "annotations": [
+            {
+                "y": 1426, 
+                "width": 1346, 
+                "x": 932, 
+                "class": "rect", 
+                "height": 1361
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/287.jpg", 
+        "annotations": [
+            {
+                "y": 491, 
+                "width": 1174, 
+                "x": 666, 
+                "class": "rect", 
+                "height": 1270
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/289.jpg", 
+        "annotations": [
+            {
+                "y": 250, 
+                "width": 1720, 
+                "x": 396, 
+                "class": "rect", 
+                "height": 1567
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/292.jpg", 
+        "annotations": [
+            {
+                "y": 420, 
+                "width": 1590, 
+                "x": 376, 
+                "class": "rect", 
+                "height": 1780
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/295.jpg", 
+        "annotations": [
+            {
+                "y": 979, 
+                "width": 618, 
+                "x": 912, 
+                "class": "rect", 
+                "height": 705
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/299.jpg", 
+        "annotations": [
+            {
+                "y": 2036, 
+                "width": 1544, 
+                "x": 884, 
+                "class": "rect", 
+                "height": 1517
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/3.jpg", 
+        "annotations": [
+            {
+                "y": 2296, 
+                "width": 396, 
+                "x": 1122, 
+                "class": "rect", 
+                "height": 701
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/30.jpg", 
+        "annotations": [
+            {
+                "y": 758, 
+                "width": 1928, 
+                "x": 346, 
+                "class": "rect", 
+                "height": 2103
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/300.jpg", 
+        "annotations": [
+            {
+                "y": 1208, 
+                "width": 490, 
+                "x": 816, 
+                "class": "rect", 
+                "height": 535
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/304.jpg", 
+        "annotations": [
+            {
+                "y": 1911, 
+                "width": 1010, 
+                "x": 716, 
+                "class": "rect", 
+                "height": 1572
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/307.jpg", 
+        "annotations": [
+            {
+                "y": 1270, 
+                "width": 1102, 
+                "x": 710, 
+                "class": "rect", 
+                "height": 1215
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/309.jpg", 
+        "annotations": [
+            {
+                "y": 656, 
+                "width": 1086, 
+                "x": 416, 
+                "class": "rect", 
+                "height": 1236
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/318.jpg", 
+        "annotations": [
+            {
+                "y": 1168, 
+                "width": 578, 
+                "x": 826, 
+                "class": "rect", 
+                "height": 513
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/320.jpg", 
+        "annotations": [
+            {
+                "y": 981, 
+                "width": 1400, 
+                "x": 1052, 
+                "class": "rect", 
+                "height": 1649
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/321.jpg", 
+        "annotations": [
+            {
+                "y": 2052, 
+                "width": 1140, 
+                "x": 1252, 
+                "class": "rect", 
+                "height": 1216
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/322.jpg", 
+        "annotations": [
+            {
+                "y": 1239, 
+                "width": 1064, 
+                "x": 690, 
+                "class": "rect", 
+                "height": 618
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/323.jpg", 
+        "annotations": [
+            {
+                "y": 553, 
+                "width": 492, 
+                "x": 986, 
+                "class": "rect", 
+                "height": 544
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/324.jpg", 
+        "annotations": [
+            {
+                "y": 1115, 
+                "width": 642, 
+                "x": 648, 
+                "class": "rect", 
+                "height": 486
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/325.jpg", 
+        "annotations": [
+            {
+                "y": 1626, 
+                "width": 724, 
+                "x": 1440, 
+                "class": "rect", 
+                "height": 684
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/327.jpg", 
+        "annotations": [
+            {
+                "y": 1587, 
+                "width": 912, 
+                "x": 1046, 
+                "class": "rect", 
+                "height": 934
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/328.jpg", 
+        "annotations": [
+            {
+                "y": 1078, 
+                "width": 1180, 
+                "x": 538, 
+                "class": "rect", 
+                "height": 1082
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/33.jpg", 
+        "annotations": [
+            {
+                "y": 1647, 
+                "width": 568, 
+                "x": 906, 
+                "class": "rect", 
+                "height": 470
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/335.jpg", 
+        "annotations": [
+            {
+                "y": 1152, 
+                "width": 448, 
+                "x": 704, 
+                "class": "rect", 
+                "height": 801
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/336.jpg", 
+        "annotations": [
+            {
+                "y": 1219, 
+                "width": 596, 
+                "x": 936, 
+                "class": "rect", 
+                "height": 942
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/344.jpg", 
+        "annotations": [
+            {
+                "y": 374, 
+                "width": 474, 
+                "x": 778, 
+                "class": "rect", 
+                "height": 778
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/347.jpg", 
+        "annotations": [
+            {
+                "y": 1340, 
+                "width": 1438, 
+                "x": 684, 
+                "class": "rect", 
+                "height": 1150
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/350.jpg", 
+        "annotations": [
+            {
+                "y": 1601, 
+                "width": 336, 
+                "x": 686, 
+                "class": "rect", 
+                "height": 349
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/352.jpg", 
+        "annotations": [
+            {
+                "y": 1298, 
+                "width": 836, 
+                "x": 2088, 
+                "class": "rect", 
+                "height": 883
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/355.jpg", 
+        "annotations": [
+            {
+                "y": 1400, 
+                "width": 278, 
+                "x": 1120, 
+                "class": "rect", 
+                "height": 510
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/357.jpg", 
+        "annotations": [
+            {
+                "y": 1585, 
+                "width": 294, 
+                "x": 970, 
+                "class": "rect", 
+                "height": 411
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/361.jpg", 
+        "annotations": [
+            {
+                "y": 1540, 
+                "width": 642, 
+                "x": 1346, 
+                "class": "rect", 
+                "height": 1004
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/362.jpg", 
+        "annotations": [
+            {
+                "y": 769, 
+                "width": 396, 
+                "x": 986, 
+                "class": "rect", 
+                "height": 754
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/363.jpg", 
+        "annotations": [
+            {
+                "y": 2357, 
+                "width": 446, 
+                "x": 790, 
+                "class": "rect", 
+                "height": 719
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/370.jpg", 
+        "annotations": [
+            {
+                "y": 1071, 
+                "width": 400, 
+                "x": 152, 
+                "class": "rect", 
+                "height": 383
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/373.jpg", 
+        "annotations": [
+            {
+                "y": 1387, 
+                "width": 588, 
+                "x": 856, 
+                "class": "rect", 
+                "height": 359
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/38.jpg", 
+        "annotations": [
+            {
+                "y": 1443, 
+                "width": 858, 
+                "x": 858, 
+                "class": "rect", 
+                "height": 683
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/380.jpg", 
+        "annotations": [
+            {
+                "y": 825, 
+                "width": 1488, 
+                "x": 594, 
+                "class": "rect", 
+                "height": 1156
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/390.jpg", 
+        "annotations": [
+            {
+                "y": 1105, 
+                "width": 744, 
+                "x": 638, 
+                "class": "rect", 
+                "height": 976
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/391.jpg", 
+        "annotations": [
+            {
+                "y": 519, 
+                "width": 1238, 
+                "x": 918, 
+                "class": "rect", 
+                "height": 2033
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/392.jpg", 
+        "annotations": [
+            {
+                "y": 673, 
+                "width": 1230, 
+                "x": 592, 
+                "class": "rect", 
+                "height": 1045
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/399.jpg", 
+        "annotations": [
+            {
+                "y": 1965, 
+                "width": 382, 
+                "x": 1156, 
+                "class": "rect", 
+                "height": 402
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/402.jpg", 
+        "annotations": [
+            {
+                "y": 1112, 
+                "width": 434, 
+                "x": 852, 
+                "class": "rect", 
+                "height": 464
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/405.jpg", 
+        "annotations": [
+            {
+                "y": 1029, 
+                "width": 606, 
+                "x": 682, 
+                "class": "rect", 
+                "height": 785
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/409.jpg", 
+        "annotations": [
+            {
+                "y": 1159, 
+                "width": 564, 
+                "x": 390, 
+                "class": "rect", 
+                "height": 646
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/415.jpg", 
+        "annotations": [
+            {
+                "y": 781, 
+                "width": 296, 
+                "x": 1274, 
+                "class": "rect", 
+                "height": 417
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/417.jpg", 
+        "annotations": [
+            {
+                "y": 1208, 
+                "width": 566, 
+                "x": 1060, 
+                "class": "rect", 
+                "height": 770
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/422.jpg", 
+        "annotations": [
+            {
+                "y": 1356, 
+                "width": 510, 
+                "x": 942, 
+                "class": "rect", 
+                "height": 628
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/424.jpg", 
+        "annotations": [
+            {
+                "y": 1245, 
+                "width": 386, 
+                "x": 758, 
+                "class": "rect", 
+                "height": 349
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/426.jpg", 
+        "annotations": [
+            {
+                "y": 1428, 
+                "width": 506, 
+                "x": 442, 
+                "class": "rect", 
+                "height": 472
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/427.jpg", 
+        "annotations": [
+            {
+                "y": 1055, 
+                "width": 844, 
+                "x": 1000, 
+                "class": "rect", 
+                "height": 1415
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/430.jpg", 
+        "annotations": [
+            {
+                "y": 828, 
+                "width": 1150, 
+                "x": 938, 
+                "class": "rect", 
+                "height": 1032
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/431.jpg", 
+        "annotations": [
+            {
+                "y": 723, 
+                "width": 480, 
+                "x": 646, 
+                "class": "rect", 
+                "height": 510
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/433.jpg", 
+        "annotations": [
+            {
+                "y": 1276, 
+                "width": 1296, 
+                "x": 420, 
+                "class": "rect", 
+                "height": 671
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/435.jpg", 
+        "annotations": [
+            {
+                "y": 905, 
+                "width": 580, 
+                "x": 1080, 
+                "class": "rect", 
+                "height": 628
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/436.jpg", 
+        "annotations": [
+            {
+                "y": 1282, 
+                "width": 468, 
+                "x": 892, 
+                "class": "rect", 
+                "height": 575
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/439.jpg", 
+        "annotations": [
+            {
+                "y": 1295, 
+                "width": 580, 
+                "x": 892, 
+                "class": "rect", 
+                "height": 711
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/450.jpg", 
+        "annotations": [
+            {
+                "y": 688, 
+                "width": 1402, 
+                "x": 466, 
+                "class": "rect", 
+                "height": 1297
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/459.jpg", 
+        "annotations": [
+            {
+                "y": 970, 
+                "width": 1084, 
+                "x": 388, 
+                "class": "rect", 
+                "height": 946
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/465.jpg", 
+        "annotations": [
+            {
+                "y": 1962, 
+                "width": 586, 
+                "x": 684, 
+                "class": "rect", 
+                "height": 566
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/466.jpg", 
+        "annotations": [
+            {
+                "y": 1242, 
+                "width": 830, 
+                "x": 1166, 
+                "class": "rect", 
+                "height": 1042
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/467.jpg", 
+        "annotations": [
+            {
+                "y": 797, 
+                "width": 746, 
+                "x": 934, 
+                "class": "rect", 
+                "height": 992
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/468.jpg", 
+        "annotations": [
+            {
+                "y": 2017, 
+                "width": 872, 
+                "x": 1970, 
+                "class": "rect", 
+                "height": 817
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/475.jpg", 
+        "annotations": [
+            {
+                "y": 2114, 
+                "width": 1922, 
+                "x": 358, 
+                "class": "rect", 
+                "height": 1455
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/477.jpg", 
+        "annotations": [
+            {
+                "y": 695, 
+                "width": 456, 
+                "x": 742, 
+                "class": "rect", 
+                "height": 714
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/479.jpg", 
+        "annotations": [
+            {
+                "y": 1214, 
+                "width": 836, 
+                "x": 686, 
+                "class": "rect", 
+                "height": 615
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/480.jpg", 
+        "annotations": [
+            {
+                "y": 1462, 
+                "width": 786, 
+                "x": 816, 
+                "class": "rect", 
+                "height": 670
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/489.jpg", 
+        "annotations": [
+            {
+                "y": 813, 
+                "width": 432, 
+                "x": 1300, 
+                "class": "rect", 
+                "height": 394
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/49.jpg", 
+        "annotations": [
+            {
+                "y": 1072, 
+                "width": 538, 
+                "x": 926, 
+                "class": "rect", 
+                "height": 569
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/491.jpg", 
+        "annotations": [
+            {
+                "y": 1207, 
+                "width": 1162, 
+                "x": 848, 
+                "class": "rect", 
+                "height": 1545
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/492.jpg", 
+        "annotations": [
+            {
+                "y": 1712, 
+                "width": 776, 
+                "x": 962, 
+                "class": "rect", 
+                "height": 1000
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/494.jpg", 
+        "annotations": [
+            {
+                "y": 1622, 
+                "width": 444, 
+                "x": 1106, 
+                "class": "rect", 
+                "height": 510
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/495.jpg", 
+        "annotations": [
+            {
+                "y": 1001, 
+                "width": 696, 
+                "x": 742, 
+                "class": "rect", 
+                "height": 661
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/498.jpg", 
+        "annotations": [
+            {
+                "y": 911, 
+                "width": 536, 
+                "x": 1128, 
+                "class": "rect", 
+                "height": 631
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/5.jpg", 
+        "annotations": [
+            {
+                "y": 1661, 
+                "width": 1126, 
+                "x": 924, 
+                "class": "rect", 
+                "height": 1220
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/50.jpg", 
+        "annotations": [
+            {
+                "y": 358, 
+                "width": 1218, 
+                "x": 560, 
+                "class": "rect", 
+                "height": 1496
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/500.jpg", 
+        "annotations": [
+            {
+                "y": 1461, 
+                "width": 1038, 
+                "x": 866, 
+                "class": "rect", 
+                "height": 1044
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/510.jpg", 
+        "annotations": [
+            {
+                "y": 825, 
+                "width": 818, 
+                "x": 758, 
+                "class": "rect", 
+                "height": 603
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/511.jpg", 
+        "annotations": [
+            {
+                "y": 936, 
+                "width": 918, 
+                "x": 424, 
+                "class": "rect", 
+                "height": 618
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/512.jpg", 
+        "annotations": [
+            {
+                "y": 1938, 
+                "width": 1070, 
+                "x": 920, 
+                "class": "rect", 
+                "height": 1165
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/514.jpg", 
+        "annotations": [
+            {
+                "y": 1292, 
+                "width": 386, 
+                "x": 1112, 
+                "class": "rect", 
+                "height": 599
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/519.jpg", 
+        "annotations": [
+            {
+                "y": 795, 
+                "width": 668, 
+                "x": 1084, 
+                "class": "rect", 
+                "height": 491
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/520.jpg", 
+        "annotations": [
+            {
+                "y": 1202, 
+                "width": 1044, 
+                "x": 710, 
+                "class": "rect", 
+                "height": 695
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/527.jpg", 
+        "annotations": [
+            {
+                "y": 1353, 
+                "width": 668, 
+                "x": 1104, 
+                "class": "rect", 
+                "height": 597
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/530.jpg", 
+        "annotations": [
+            {
+                "y": 586, 
+                "width": 1792, 
+                "x": 412, 
+                "class": "rect", 
+                "height": 1321
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/543.jpg", 
+        "annotations": [
+            {
+                "y": 2083, 
+                "width": 586, 
+                "x": 1724, 
+                "class": "rect", 
+                "height": 504
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/554.jpg", 
+        "annotations": [
+            {
+                "y": 704, 
+                "width": 1232, 
+                "x": 838, 
+                "class": "rect", 
+                "height": 1326
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/555.jpg", 
+        "annotations": [
+            {
+                "y": 1406, 
+                "width": 798, 
+                "x": 1002, 
+                "class": "rect", 
+                "height": 652
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/565.jpg", 
+        "annotations": [
+            {
+                "y": 1038, 
+                "width": 568, 
+                "x": 1094, 
+                "class": "rect", 
+                "height": 507
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/567.jpg", 
+        "annotations": [
+            {
+                "y": 562, 
+                "width": 1070, 
+                "x": 266, 
+                "class": "rect", 
+                "height": 1097
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/571.jpg", 
+        "annotations": [
+            {
+                "y": 809, 
+                "width": 624, 
+                "x": 692, 
+                "class": "rect", 
+                "height": 810
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/573.jpg", 
+        "annotations": [
+            {
+                "y": 1078, 
+                "width": 964, 
+                "x": 628, 
+                "class": "rect", 
+                "height": 819
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/575.jpg", 
+        "annotations": [
+            {
+                "y": 1770, 
+                "width": 1502, 
+                "x": 1378, 
+                "class": "rect", 
+                "height": 1623
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/58.jpg", 
+        "annotations": [
+            {
+                "y": 1533, 
+                "width": 1060, 
+                "x": 820, 
+                "class": "rect", 
+                "height": 859
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/585.jpg", 
+        "annotations": [
+            {
+                "y": 1184, 
+                "width": 918, 
+                "x": 1180, 
+                "class": "rect", 
+                "height": 1075
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/587.jpg", 
+        "annotations": [
+            {
+                "y": 1137, 
+                "width": 790, 
+                "x": 650, 
+                "class": "rect", 
+                "height": 865
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/59.jpg", 
+        "annotations": [
+            {
+                "y": 1211, 
+                "width": 634, 
+                "x": 852, 
+                "class": "rect", 
+                "height": 513
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/590.jpg", 
+        "annotations": [
+            {
+                "y": 865, 
+                "width": 508, 
+                "x": 1138, 
+                "class": "rect", 
+                "height": 640
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/594.jpg", 
+        "annotations": [
+            {
+                "y": 2060, 
+                "width": 822, 
+                "x": 1062, 
+                "class": "rect", 
+                "height": 606
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/598.jpg", 
+        "annotations": [
+            {
+                "y": 1086, 
+                "width": 830, 
+                "x": 1186, 
+                "class": "rect", 
+                "height": 981
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/599.jpg", 
+        "annotations": [
+            {
+                "y": 1186, 
+                "width": 654, 
+                "x": 770, 
+                "class": "rect", 
+                "height": 659
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/600.jpg", 
+        "annotations": [
+            {
+                "y": 1115, 
+                "width": 420, 
+                "x": 988, 
+                "class": "rect", 
+                "height": 442
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/604.jpg", 
+        "annotations": [
+            {
+                "y": 649, 
+                "width": 870, 
+                "x": 974, 
+                "class": "rect", 
+                "height": 735
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/606.jpg", 
+        "annotations": [
+            {
+                "y": 1000, 
+                "width": 464, 
+                "x": 1000, 
+                "class": "rect", 
+                "height": 556
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/61.jpg", 
+        "annotations": [
+            {
+                "y": 457, 
+                "width": 1284, 
+                "x": 464, 
+                "class": "rect", 
+                "height": 1419
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/617.jpg", 
+        "annotations": [
+            {
+                "y": 676, 
+                "width": 538, 
+                "x": 1144, 
+                "class": "rect", 
+                "height": 557
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/62.jpg", 
+        "annotations": [
+            {
+                "y": 1474, 
+                "width": 462, 
+                "x": 888, 
+                "class": "rect", 
+                "height": 470
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/625.jpg", 
+        "annotations": [
+            {
+                "y": 816, 
+                "width": 558, 
+                "x": 968, 
+                "class": "rect", 
+                "height": 581
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/626.jpg", 
+        "annotations": [
+            {
+                "y": 582, 
+                "width": 1358, 
+                "x": 530, 
+                "class": "rect", 
+                "height": 2392
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/627.jpg", 
+        "annotations": [
+            {
+                "y": 967, 
+                "width": 516, 
+                "x": 1368, 
+                "class": "rect", 
+                "height": 532
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/628.jpg", 
+        "annotations": [
+            {
+                "y": 281, 
+                "width": 2220, 
+                "x": 466, 
+                "class": "rect", 
+                "height": 2826
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/629.jpg", 
+        "annotations": [
+            {
+                "y": 942, 
+                "width": 550, 
+                "x": 626, 
+                "class": "rect", 
+                "height": 476
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/63.jpg", 
+        "annotations": [
+            {
+                "y": 1635, 
+                "width": 660, 
+                "x": 802, 
+                "class": "rect", 
+                "height": 398
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/630.jpg", 
+        "annotations": [
+            {
+                "y": 801, 
+                "width": 1988, 
+                "x": 390, 
+                "class": "rect", 
+                "height": 2768
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/631.jpg", 
+        "annotations": [
+            {
+                "y": 965, 
+                "width": 1520, 
+                "x": 508, 
+                "class": "rect", 
+                "height": 1611
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/635.jpg", 
+        "annotations": [
+            {
+                "y": 856, 
+                "width": 754, 
+                "x": 700, 
+                "class": "rect", 
+                "height": 1014
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/636.jpg", 
+        "annotations": [
+            {
+                "y": 1817, 
+                "width": 606, 
+                "x": 572, 
+                "class": "rect", 
+                "height": 933
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/637.jpg", 
+        "annotations": [
+            {
+                "y": 1455, 
+                "width": 968, 
+                "x": 794, 
+                "class": "rect", 
+                "height": 977
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/638.jpg", 
+        "annotations": [
+            {
+                "y": 140, 
+                "width": 1362, 
+                "x": 680, 
+                "class": "rect", 
+                "height": 2228
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/646.jpg", 
+        "annotations": [
+            {
+                "y": 1251, 
+                "width": 922, 
+                "x": 794, 
+                "class": "rect", 
+                "height": 696
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/650.jpg", 
+        "annotations": [
+            {
+                "y": 785, 
+                "width": 1054, 
+                "x": 550, 
+                "class": "rect", 
+                "height": 1247
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/654.jpg", 
+        "annotations": [
+            {
+                "y": 2017, 
+                "width": 520, 
+                "x": 1002, 
+                "class": "rect", 
+                "height": 1520
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/661.jpg", 
+        "annotations": [
+            {
+                "y": 1292, 
+                "width": 626, 
+                "x": 980, 
+                "class": "rect", 
+                "height": 868
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/664.jpg", 
+        "annotations": [
+            {
+                "y": 676, 
+                "width": 1976, 
+                "x": 368, 
+                "class": "rect", 
+                "height": 2345
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/669.jpg", 
+        "annotations": [
+            {
+                "y": 803, 
+                "width": 542, 
+                "x": 552, 
+                "class": "rect", 
+                "height": 612
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/670.jpg", 
+        "annotations": [
+            {
+                "y": 789, 
+                "width": 664, 
+                "x": 1926, 
+                "class": "rect", 
+                "height": 993
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/672.jpg", 
+        "annotations": [
+            {
+                "y": 1180, 
+                "width": 620, 
+                "x": 1050, 
+                "class": "rect", 
+                "height": 764
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/675.jpg", 
+        "annotations": [
+            {
+                "y": 714, 
+                "width": 680, 
+                "x": 758, 
+                "class": "rect", 
+                "height": 853
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/679.jpg", 
+        "annotations": [
+            {
+                "y": 961, 
+                "width": 678, 
+                "x": 874, 
+                "class": "rect", 
+                "height": 745
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/682.jpg", 
+        "annotations": [
+            {
+                "y": 868, 
+                "width": 878, 
+                "x": 1042, 
+                "class": "rect", 
+                "height": 998
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/689.jpg", 
+        "annotations": [
+            {
+                "y": 1511, 
+                "width": 652, 
+                "x": 1334, 
+                "class": "rect", 
+                "height": 359
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/69.jpg", 
+        "annotations": [
+            {
+                "y": 1164, 
+                "width": 1848, 
+                "x": 746, 
+                "class": "rect", 
+                "height": 2100
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/690.jpg", 
+        "annotations": [
+            {
+                "y": 69, 
+                "width": 508, 
+                "x": 1222, 
+                "class": "rect", 
+                "height": 485
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/692.jpg", 
+        "annotations": [
+            {
+                "y": 1066, 
+                "width": 884, 
+                "x": 606, 
+                "class": "rect", 
+                "height": 1042
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/694.jpg", 
+        "annotations": [
+            {
+                "y": 2255, 
+                "width": 768, 
+                "x": 910, 
+                "class": "rect", 
+                "height": 1337
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/695.jpg", 
+        "annotations": [
+            {
+                "y": 880, 
+                "width": 674, 
+                "x": 1530, 
+                "class": "rect", 
+                "height": 497
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/697.jpg", 
+        "annotations": [
+            {
+                "y": 1511, 
+                "width": 470, 
+                "x": 690, 
+                "class": "rect", 
+                "height": 618
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/70.jpg", 
+        "annotations": [
+            {
+                "y": 1587, 
+                "width": 990, 
+                "x": 770, 
+                "class": "rect", 
+                "height": 981
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/706.jpg", 
+        "annotations": [
+            {
+                "y": 880, 
+                "width": 482, 
+                "x": 994, 
+                "class": "rect", 
+                "height": 504
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/71.jpg", 
+        "annotations": [
+            {
+                "y": 531, 
+                "width": 1532, 
+                "x": 684, 
+                "class": "rect", 
+                "height": 2412
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/711.jpg", 
+        "annotations": [
+            {
+                "y": 711, 
+                "width": 842, 
+                "x": 964, 
+                "class": "rect", 
+                "height": 1067
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/715.jpg", 
+        "annotations": [
+            {
+                "y": 1051, 
+                "width": 908, 
+                "x": 1012, 
+                "class": "rect", 
+                "height": 958
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/721.jpg", 
+        "annotations": [
+            {
+                "y": 1560, 
+                "width": 640, 
+                "x": 1242, 
+                "class": "rect", 
+                "height": 492
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/728.jpg", 
+        "annotations": [
+            {
+                "y": 146, 
+                "width": 416, 
+                "x": 4, 
+                "class": "rect", 
+                "height": 362
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/73.jpg", 
+        "annotations": [
+            {
+                "y": 911, 
+                "width": 596, 
+                "x": 1206, 
+                "class": "rect", 
+                "height": 526
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/731.jpg", 
+        "annotations": [
+            {
+                "y": 948, 
+                "width": 1060, 
+                "x": 994, 
+                "class": "rect", 
+                "height": 928
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/733.jpg", 
+        "annotations": [
+            {
+                "y": 883, 
+                "width": 960, 
+                "x": 1240, 
+                "class": "rect", 
+                "height": 817
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/734.jpg", 
+        "annotations": [
+            {
+                "y": 1231, 
+                "width": 908, 
+                "x": 1042, 
+                "class": "rect", 
+                "height": 809
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/735.jpg", 
+        "annotations": [
+            {
+                "y": 809, 
+                "width": 1368, 
+                "x": 874, 
+                "class": "rect", 
+                "height": 1101
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/736.jpg", 
+        "annotations": [
+            {
+                "y": 930, 
+                "width": 902, 
+                "x": 822, 
+                "class": "rect", 
+                "height": 1051
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/737.jpg", 
+        "annotations": [
+            {
+                "y": 574, 
+                "width": 1172, 
+                "x": 554, 
+                "class": "rect", 
+                "height": 1283
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/740.jpg", 
+        "annotations": [
+            {
+                "y": 621, 
+                "width": 620, 
+                "x": 758, 
+                "class": "rect", 
+                "height": 494
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/742.jpg", 
+        "annotations": [
+            {
+                "y": 982, 
+                "width": 1006, 
+                "x": 876, 
+                "class": "rect", 
+                "height": 1268
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/746.jpg", 
+        "annotations": [
+            {
+                "y": 1426, 
+                "width": 2042, 
+                "x": 554, 
+                "class": "rect", 
+                "height": 1818
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/747.jpg", 
+        "annotations": [
+            {
+                "y": 1157, 
+                "width": 1524, 
+                "x": 610, 
+                "class": "rect", 
+                "height": 1618
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/750.jpg", 
+        "annotations": [
+            {
+                "y": 899, 
+                "width": 598, 
+                "x": 1158, 
+                "class": "rect", 
+                "height": 1133
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/752.jpg", 
+        "annotations": [
+            {
+                "y": 1157, 
+                "width": 884, 
+                "x": 1122, 
+                "class": "rect", 
+                "height": 1501
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/755.jpg", 
+        "annotations": [
+            {
+                "y": 1219, 
+                "width": 1502, 
+                "x": 746, 
+                "class": "rect", 
+                "height": 2107
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/757.jpg", 
+        "annotations": [
+            {
+                "y": 1128, 
+                "width": 428, 
+                "x": 646, 
+                "class": "rect", 
+                "height": 667
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/758.jpg", 
+        "annotations": [
+            {
+                "y": 438, 
+                "width": 1280, 
+                "x": 1010, 
+                "class": "rect", 
+                "height": 901
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/766.jpg", 
+        "annotations": [
+            {
+                "y": 891, 
+                "width": 2012, 
+                "x": 690, 
+                "class": "rect", 
+                "height": 2498
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/767.jpg", 
+        "annotations": [
+            {
+                "y": 605, 
+                "width": 1470, 
+                "x": 412, 
+                "class": "rect", 
+                "height": 1314
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/770.jpg", 
+        "annotations": [
+            {
+                "y": 1363, 
+                "width": 802, 
+                "x": 742, 
+                "class": "rect", 
+                "height": 970
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/773.jpg", 
+        "annotations": [
+            {
+                "y": 661, 
+                "width": 480, 
+                "x": 572, 
+                "class": "rect", 
+                "height": 643
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/774.jpg", 
+        "annotations": [
+            {
+                "y": 1161, 
+                "width": 908, 
+                "x": 1554, 
+                "class": "rect", 
+                "height": 1020
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/776.jpg", 
+        "annotations": [
+            {
+                "y": 800, 
+                "width": 908, 
+                "x": 844, 
+                "class": "rect", 
+                "height": 1153
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/778.jpg", 
+        "annotations": [
+            {
+                "y": 862, 
+                "width": 548, 
+                "x": 1248, 
+                "class": "rect", 
+                "height": 552
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/780.jpg", 
+        "annotations": [
+            {
+                "y": 828, 
+                "width": 768, 
+                "x": 798, 
+                "class": "rect", 
+                "height": 992
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/782.jpg", 
+        "annotations": [
+            {
+                "y": 1579, 
+                "width": 962, 
+                "x": 786, 
+                "class": "rect", 
+                "height": 621
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/784.jpg", 
+        "annotations": [
+            {
+                "y": 809, 
+                "width": 1008, 
+                "x": 524, 
+                "class": "rect", 
+                "height": 708
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/788.jpg", 
+        "annotations": [
+            {
+                "y": 340, 
+                "width": 2348, 
+                "x": 18, 
+                "class": "rect", 
+                "height": 2417
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/796.jpg", 
+        "annotations": [
+            {
+                "y": 1125, 
+                "width": 1202, 
+                "x": 562, 
+                "class": "rect", 
+                "height": 1001
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/799.jpg", 
+        "annotations": [
+            {
+                "y": 472, 
+                "width": 832, 
+                "x": 696, 
+                "class": "rect", 
+                "height": 1138
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/800.jpg", 
+        "annotations": [
+            {
+                "y": 1415, 
+                "width": 1170, 
+                "x": 558, 
+                "class": "rect", 
+                "height": 1989
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/801.jpg", 
+        "annotations": [
+            {
+                "y": 914, 
+                "width": 1212, 
+                "x": 654, 
+                "class": "rect", 
+                "height": 1456
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/803.jpg", 
+        "annotations": [
+            {
+                "y": 401, 
+                "width": 730, 
+                "x": 888, 
+                "class": "rect", 
+                "height": 955
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/806.jpg", 
+        "annotations": [
+            {
+                "y": 785, 
+                "width": 1056, 
+                "x": 872, 
+                "class": "rect", 
+                "height": 763
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/808.jpg", 
+        "annotations": [
+            {
+                "y": 982, 
+                "width": 936, 
+                "x": 768, 
+                "class": "rect", 
+                "height": 1376
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/811.jpg", 
+        "annotations": [
+            {
+                "y": 661, 
+                "width": 856, 
+                "x": 378, 
+                "class": "rect", 
+                "height": 1147
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/812.jpg", 
+        "annotations": [
+            {
+                "y": 513, 
+                "width": 1466, 
+                "x": 358, 
+                "class": "rect", 
+                "height": 2401
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/818.jpg", 
+        "annotations": [
+            {
+                "y": 877, 
+                "width": 890, 
+                "x": 762, 
+                "class": "rect", 
+                "height": 872
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/82.jpg", 
+        "annotations": [
+            {
+                "y": 1348, 
+                "width": 1488, 
+                "x": 912, 
+                "class": "rect", 
+                "height": 2240
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/820.jpg", 
+        "annotations": [
+            {
+                "y": 1152, 
+                "width": 578, 
+                "x": 538, 
+                "class": "rect", 
+                "height": 643
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/822.jpg", 
+        "annotations": [
+            {
+                "y": 411, 
+                "width": 1232, 
+                "x": 282, 
+                "class": "rect", 
+                "height": 1799
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/823.jpg", 
+        "annotations": [
+            {
+                "y": 158, 
+                "width": 1512, 
+                "x": 1786, 
+                "class": "rect", 
+                "height": 1853
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/825.jpg", 
+        "annotations": [
+            {
+                "y": 770, 
+                "width": 1206, 
+                "x": 714, 
+                "class": "rect", 
+                "height": 1469
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/828.jpg", 
+        "annotations": [
+            {
+                "y": 884, 
+                "width": 652, 
+                "x": 984, 
+                "class": "rect", 
+                "height": 1171
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/83.jpg", 
+        "annotations": [
+            {
+                "y": 1304, 
+                "width": 892, 
+                "x": 936, 
+                "class": "rect", 
+                "height": 668
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/835.jpg", 
+        "annotations": [
+            {
+                "y": 1375, 
+                "width": 692, 
+                "x": 728, 
+                "class": "rect", 
+                "height": 362
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/837.jpg", 
+        "annotations": [
+            {
+                "y": 680, 
+                "width": 576, 
+                "x": 668, 
+                "class": "rect", 
+                "height": 435
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/839.jpg", 
+        "annotations": [
+            {
+                "y": 1567, 
+                "width": 1444, 
+                "x": 420, 
+                "class": "rect", 
+                "height": 1290
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/840.jpg", 
+        "annotations": [
+            {
+                "y": 964, 
+                "width": 560, 
+                "x": 856, 
+                "class": "rect", 
+                "height": 717
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/845.jpg", 
+        "annotations": [
+            {
+                "y": 1121, 
+                "width": 948, 
+                "x": 970, 
+                "class": "rect", 
+                "height": 1044
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/848.jpg", 
+        "annotations": [
+            {
+                "y": 1115, 
+                "width": 622, 
+                "x": 740, 
+                "class": "rect", 
+                "height": 510
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/853.jpg", 
+        "annotations": [
+            {
+                "y": 1279, 
+                "width": 1492, 
+                "x": 534, 
+                "class": "rect", 
+                "height": 1051
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/864.jpg", 
+        "annotations": [
+            {
+                "y": 695, 
+                "width": 1150, 
+                "x": 844, 
+                "class": "rect", 
+                "height": 1168
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/866.jpg", 
+        "annotations": [
+            {
+                "y": 1316, 
+                "width": 780, 
+                "x": 894, 
+                "class": "rect", 
+                "height": 1184
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/869.jpg", 
+        "annotations": [
+            {
+                "y": 803, 
+                "width": 558, 
+                "x": 908, 
+                "class": "rect", 
+                "height": 504
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/87.jpg", 
+        "annotations": [
+            {
+                "y": 380, 
+                "width": 706, 
+                "x": 846, 
+                "class": "rect", 
+                "height": 584
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/870.jpg", 
+        "annotations": [
+            {
+                "y": 636, 
+                "width": 1142, 
+                "x": 676, 
+                "class": "rect", 
+                "height": 1156
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/872.jpg", 
+        "annotations": [
+            {
+                "y": 976, 
+                "width": 706, 
+                "x": 778, 
+                "class": "rect", 
+                "height": 554
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/875.jpg", 
+        "annotations": [
+            {
+                "y": 1251, 
+                "width": 968, 
+                "x": 762, 
+                "class": "rect", 
+                "height": 996
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/876.jpg", 
+        "annotations": [
+            {
+                "y": 1563, 
+                "width": 692, 
+                "x": 996, 
+                "class": "rect", 
+                "height": 766
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/877.jpg", 
+        "annotations": [
+            {
+                "y": 1406, 
+                "width": 746, 
+                "x": 944, 
+                "class": "rect", 
+                "height": 504
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/878.jpg", 
+        "annotations": [
+            {
+                "y": 655, 
+                "width": 1264, 
+                "x": 774, 
+                "class": "rect", 
+                "height": 1434
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/881.jpg", 
+        "annotations": [
+            {
+                "y": 1134, 
+                "width": 536, 
+                "x": 740, 
+                "class": "rect", 
+                "height": 464
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/885.jpg", 
+        "annotations": [
+            {
+                "y": 2161, 
+                "width": 1426, 
+                "x": 1078, 
+                "class": "rect", 
+                "height": 1247
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/892.jpg", 
+        "annotations": [
+            {
+                "y": 1622, 
+                "width": 560, 
+                "x": 994, 
+                "class": "rect", 
+                "height": 656
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/893.jpg", 
+        "annotations": [
+            {
+                "y": 1088, 
+                "width": 1172, 
+                "x": 302, 
+                "class": "rect", 
+                "height": 1350
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/897.jpg", 
+        "annotations": [
+            {
+                "y": 976, 
+                "width": 802, 
+                "x": 694, 
+                "class": "rect", 
+                "height": 819
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/898.jpg", 
+        "annotations": [
+            {
+                "y": 1217, 
+                "width": 1010, 
+                "x": 672, 
+                "class": "rect", 
+                "height": 996
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/899.jpg", 
+        "annotations": [
+            {
+                "y": 710, 
+                "width": 564, 
+                "x": 1020, 
+                "class": "rect", 
+                "height": 745
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/900.jpg", 
+        "annotations": [
+            {
+                "y": 1376, 
+                "width": 1878, 
+                "x": 410, 
+                "class": "rect", 
+                "height": 2165
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/902.jpg", 
+        "annotations": [
+            {
+                "y": 1029, 
+                "width": 744, 
+                "x": 866, 
+                "class": "rect", 
+                "height": 550
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/907.jpg", 
+        "annotations": [
+            {
+                "y": 1471, 
+                "width": 1084, 
+                "x": 666, 
+                "class": "rect", 
+                "height": 1048
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/909.jpg", 
+        "annotations": [
+            {
+                "y": 1190, 
+                "width": 852, 
+                "x": 470, 
+                "class": "rect", 
+                "height": 785
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/910.jpg", 
+        "annotations": [
+            {
+                "y": 1131, 
+                "width": 724, 
+                "x": 276, 
+                "class": "rect", 
+                "height": 754
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/914.jpg", 
+        "annotations": [
+            {
+                "y": 1298, 
+                "width": 544, 
+                "x": 918, 
+                "class": "rect", 
+                "height": 544
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/916.jpg", 
+        "annotations": [
+            {
+                "y": 645, 
+                "width": 1110, 
+                "x": 222, 
+                "class": "rect", 
+                "height": 1383
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/923.jpg", 
+        "annotations": [
+            {
+                "y": 921, 
+                "width": 542, 
+                "x": 730, 
+                "class": "rect", 
+                "height": 463
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/924.jpg", 
+        "annotations": [
+            {
+                "y": 528, 
+                "width": 456, 
+                "x": 1258, 
+                "class": "rect", 
+                "height": 726
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/927.jpg", 
+        "annotations": [
+            {
+                "y": 1390, 
+                "width": 592, 
+                "x": 776, 
+                "class": "rect", 
+                "height": 733
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/931.jpg", 
+        "annotations": [
+            {
+                "y": 2076, 
+                "width": 714, 
+                "x": 1102, 
+                "class": "rect", 
+                "height": 1028
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/941.jpg", 
+        "annotations": [
+            {
+                "y": 1526, 
+                "width": 652, 
+                "x": 640, 
+                "class": "rect", 
+                "height": 656
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/943.jpg", 
+        "annotations": [
+            {
+                "y": 1094, 
+                "width": 468, 
+                "x": 1136, 
+                "class": "rect", 
+                "height": 575
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/944.jpg", 
+        "annotations": [
+            {
+                "y": 333, 
+                "width": 428, 
+                "x": 716, 
+                "class": "rect", 
+                "height": 649
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/945.jpg", 
+        "annotations": [
+            {
+                "y": 676, 
+                "width": 618, 
+                "x": 1430, 
+                "class": "rect", 
+                "height": 900
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/947.jpg", 
+        "annotations": [
+            {
+                "y": 1219, 
+                "width": 1620, 
+                "x": 802, 
+                "class": "rect", 
+                "height": 2072
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/949.jpg", 
+        "annotations": [
+            {
+                "y": 562, 
+                "width": 358, 
+                "x": 1282, 
+                "class": "rect", 
+                "height": 464
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/950.jpg", 
+        "annotations": [
+            {
+                "y": 1347, 
+                "width": 598, 
+                "x": 872, 
+                "class": "rect", 
+                "height": 560
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/951.jpg", 
+        "annotations": [
+            {
+                "y": 1409, 
+                "width": 850, 
+                "x": 1112, 
+                "class": "rect", 
+                "height": 757
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/952.jpg", 
+        "annotations": [
+            {
+                "y": 2049, 
+                "width": 936, 
+                "x": 1048, 
+                "class": "rect", 
+                "height": 615
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/953.jpg", 
+        "annotations": [
+            {
+                "y": 1564, 
+                "width": 718, 
+                "x": 888, 
+                "class": "rect", 
+                "height": 887
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/954.jpg", 
+        "annotations": [
+            {
+                "y": 1632, 
+                "width": 466, 
+                "x": 1350, 
+                "class": "rect", 
+                "height": 630
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/962.jpg", 
+        "annotations": [
+            {
+                "y": 445, 
+                "width": 602, 
+                "x": 834, 
+                "class": "rect", 
+                "height": 587
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/968.jpg", 
+        "annotations": [
+            {
+                "y": 1399, 
+                "width": 1602, 
+                "x": 442, 
+                "class": "rect", 
+                "height": 1966
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/975.jpg", 
+        "annotations": [
+            {
+                "y": 1129, 
+                "width": 1598, 
+                "x": 396, 
+                "class": "rect", 
+                "height": 1411
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/98.jpg", 
+        "annotations": [
+            {
+                "y": 1376, 
+                "width": 940, 
+                "x": 510, 
+                "class": "rect", 
+                "height": 1415
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/983.jpg", 
+        "annotations": [
+            {
+                "y": 1400, 
+                "width": 888, 
+                "x": 826, 
+                "class": "rect", 
+                "height": 806
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/986.jpg", 
+        "annotations": [
+            {
+                "y": 809, 
+                "width": 862, 
+                "x": 462, 
+                "class": "rect", 
+                "height": 940
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/993.jpg", 
+        "annotations": [
+            {
+                "y": 775, 
+                "width": 1018, 
+                "x": 622, 
+                "class": "rect", 
+                "height": 965
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/995.jpg", 
+        "annotations": [
+            {
+                "y": 738, 
+                "width": 872, 
+                "x": 586, 
+                "class": "rect", 
+                "height": 785
+            }
+        ], 
+        "class": "image"
+    }, 
+    {
+        "filename": "train/Type_3/996.jpg", 
+        "annotations": [
+            {
+                "y": 1381, 
+                "width": 806, 
+                "x": 744, 
+                "class": "rect", 
+                "height": 853
+            }
+        ], 
+        "class": "image"
+    }
+]
