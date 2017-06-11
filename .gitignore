@@ -15,7 +15,8 @@
 *.zip
 *.pyc
 *.mem
-input/*
+input/*/*.jpg
+input/*/*.png
 */flow/*
 .~lock.*
 backup/*
