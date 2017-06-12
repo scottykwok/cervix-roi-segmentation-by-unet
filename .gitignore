@@ -7,7 +7,6 @@
 *.mhd
 *.hdf5
 *.hdf5.*
-*.h5
 *.h5.*
 *.npz
 *.npy

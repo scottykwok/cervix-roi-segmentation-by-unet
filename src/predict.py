@@ -143,3 +143,11 @@ if __name__ == '__main__':
         INPUT_FOLDER = os.path.join(TRAINSET_RESIZED_FOLDER, c)
         OUTPUT_FOLDER = os.path.join(TRAINSET_OUTPUT_FOLDER, c)
         predict_and_crop(model, ORIGINAL_FOLDER, INPUT_FOLDER, OUTPUT_FOLDER, margin)
+
+    if os.path.exists(ADDSET_INPUT_FOLDER):
+        # predict the ROI of additional images
+        for c in ClassNames:
+            ORIGINAL_FOLDER = os.path.join(ADDSET_INPUT_FOLDER, c)
+            INPUT_FOLDER = os.path.join(ADDSET_RESIZED_FOLDER, c)
+            OUTPUT_FOLDER = os.path.join(ADDSET_OUTPUT_FOLDER, c)
+            predict_and_crop(model, ORIGINAL_FOLDER, INPUT_FOLDER, OUTPUT_FOLDER, margin)

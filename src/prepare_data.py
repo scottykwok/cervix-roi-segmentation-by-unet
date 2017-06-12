@@ -4,13 +4,54 @@ import os
 
 import cv2
 import numpy as np
+import glob
 
 from configurations import *
 
-if __name__ == '__main__':
+def resize_testset(source_folder, target_folder, target_size, pattern=FILE_PATTERN):
+    print('Resizing testset ...')
+    if not os.path.exists(target_folder): os.makedirs(target_folder)
+    total_images = glob.glob(os.path.join(source_folder, pattern))
+    total = len(total_images)
+    for i, source in enumerate(total_images):
+        filename = ntpath.basename(source)
+        target = os.path.join(target_folder, filename)
+
+        img = cv2.imread(source)
+        img_resized = cv2.resize(img, target_size, interpolation=cv2.INTER_CUBIC)
+        cv2.imwrite(target, img_resized)
+        if i % 100 == 0:
+            print("Resized {}/{} images".format(i, total))
+
+
+def resize_addset(source_folder, target_folder, target_size, pattern=FILE_PATTERN):
+    print('Resizing additional set...')
+    if not os.path.exists(target_folder): os.makedirs(target_folder)
+    for clazz in ClassNames:
+        if clazz not in os.listdir(target_folder):
+            os.makedirs(os.path.join(target_folder, clazz))
+
+        total_images = glob.glob(os.path.join(source_folder, clazz, pattern))
+        total = len(total_images)
+        for i, source in enumerate(total_images):
+            filename = ntpath.basename(source)
+            target = os.path.join(target_folder, clazz, filename)
+
+            try:
+                img = cv2.imread(source)
+                img_resized = cv2.resize(img, target_size, interpolation=cv2.INTER_CUBIC)
+                cv2.imwrite(target, img_resized)
+            except:
+                print('-------------------> error in: {}'.format(source))
+
+            if i % 20 == 0:
+                print("Resized {}/{} images".format(i, total))
+
+
+def resize_trainset_and_generate_masks():
+    print('Resizing train set & creating masks ...')
     INPUT_FOLDER = ROOT_FOLDER + '/input'
     annotation_json_filename = INPUT_FOLDER + '/{}_bbox.json'
-
     for c in ClassNames:
 
         annotation_json = annotation_json_filename.format(c)
@@ -60,3 +101,12 @@ if __name__ == '__main__':
 
             mask = cv2.resize(mask, dsize=(img_height, img_width))
             cv2.imwrite(output_filename, mask)
+
+
+if __name__ == '__main__':
+    resize_trainset_and_generate_masks()
+
+    resize_testset(TESTSET_INPUT_FOLDER, TESTSET_RESIZED_FOLDER, (img_width, img_height))
+
+    if os.path.exists(ADDSET_INPUT_FOLDER):
+        resize_addset(ADDSET_INPUT_FOLDER, ADDSET_RESIZED_FOLDER, (img_width, img_height))

@@ -30,7 +30,16 @@ The localized ROI is supposed to improve the classification of cervical types, w
 ## Usage
 
 **Data preparation:**
-- Download the [data from Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data). Unzip `trian.7z` and `test.7z` into input folder
+- Download the [data from Kaggle](https://www.kaggle.com/c/intel-mobileodt-cervical-cancer-screening/data). 
+- Unzip `trian.7z` and `test.7z` into input folder. You may unzip `additional_Type_*_v2.7z` as well, if you want to segment them, its optional.
+- The input folders should look like this:
+  - input/test/
+  - input/train/Type_1
+  - input/train/Type_2
+  - input/train/Type_3
+  - input/additional/Type_1  (optional)
+  - input/additional/Type_2  (optional)
+  - input/additional/Type_3  (optional)
 - Run `prepare_data.py`
 - Run `split_data.py`
 - Note:
@@ -39,18 +48,21 @@ The localized ROI is supposed to improve the classification of cervical types, w
 
 **Training:**
 - Run `train.py`
-- Todo: upload a pretrained tensorflow weight file.
+- The best epoch weight file will be save under `src/unet_xxxxxx/weights.h5`. Note when `train.py` starts, it will look for previous weight file (if any) and resume from there if weight file exits
 
 **Segmentation:**
 - Run `predict.py`
 - The output segmentations are under:
     - input/test_roi/
     - input/train_roi/
+    - input/additional_roi/
     
+**Configurations:**
+- Customize `configurations.py`
    
 ---
 ## Results
-On a GTX 1070, the training of 400 epochs took ~2 hours to complete. The best DICE coefficient is ~0.79. 
+On a GTX 1070, the training of 400 epochs took ~2 hours to complete. The best DICE coefficient is ~0.78. 
 
 Apply this model to the 512 unseen test images, the result looks satisfactory in 96% of images.
 

@@ -8,10 +8,12 @@ FILE_PATTERN = '*.jpg'
 ### Input folders
 TRAINSET_INPUT_FOLDER = ROOT_FOLDER + '/input/train'
 TESTSET_INPUT_FOLDER = ROOT_FOLDER + '/input/test'
+ADDSET_INPUT_FOLDER = ROOT_FOLDER + '/input/additional'
 
 ### Output folders
 TESTSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/test_roi'
 TRAINSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/train_roi'
+ADDSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/additional_roi'
 OUTPUT_FILE_EXT = '.png'
 
 ### How much percentage of extra margin we want to include when cropping the output images
@@ -20,6 +22,7 @@ margin = 0.15
 ### Temp working folders
 TRAINSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/train_resized'
 TESTSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/test_resized'
+ADDSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/additional_resized'
 VISUAL_RESIZED_FOLDER = ROOT_FOLDER + '/input/visual_resized'
 TRAINSET_RESIZED_MASK_FOLDER = ROOT_FOLDER + '/input/train_resized_mask'
 
