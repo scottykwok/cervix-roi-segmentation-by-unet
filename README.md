@@ -69,4 +69,5 @@ Apply this model to the 512 unseen test images, the result looks satisfactory in
 Sample outputs:
 ![img/preview.jpg](img/preview.jpg)
 
-
+Training loss:
+![img/loss_history.jpg](img/loss_history.jpg)
