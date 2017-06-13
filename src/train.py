@@ -18,8 +18,10 @@ if __name__ == "__main__":
     if not os.path.exists('./' + info):
         os.makedirs('./' + info)
 
-    nbr_train_samples = len(glob.glob(os.path.join(UNET_TRAIN_SPLIT_FOLDER, '*', FILE_PATTERN)))
-    nbr_validation_samples = len(glob.glob(os.path.join(UNET_VAL_SPLIT_FOLDER, '*', FILE_PATTERN)))
+    UNET_IMAGE_FORMAT = '*.png'
+
+    nbr_train_samples = len(glob.glob(os.path.join(UNET_TRAIN_SPLIT_FOLDER, '*', UNET_IMAGE_FORMAT)))
+    nbr_validation_samples = len(glob.glob(os.path.join(UNET_VAL_SPLIT_FOLDER, '*', UNET_IMAGE_FORMAT)))
 
     # autosave best Model
     best_model_file = os.path.join(info, 'weights.h5')
@@ -38,7 +40,12 @@ if __name__ == "__main__":
 
     steps_per_epoch = math.ceil(1. * nbr_train_samples / batch_size)
     validation_steps = math.ceil(1. * nbr_validation_samples / batch_size)
-    print('steps_per_epoch={} , epochs={}'.format(steps_per_epoch, nbr_epochs))
+    print('steps_per_epoch={} , validation_steps={} epochs={}'.format(steps_per_epoch, validation_steps, nbr_epochs))
+    if steps_per_epoch <= 0:
+        raise AssertionError("Found 0 train samples")
+    if validation_steps <= 0:
+        raise AssertionError("Found 0 validation samples")
+
 
     train_generator = getCombinedImageDataGenerator(
         x_folder=UNET_TRAIN_SPLIT_FOLDER,
