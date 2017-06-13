@@ -105,7 +105,7 @@ def resize_trainset_and_generate_masks(dsize):
 
 
 if __name__ == '__main__':
-    #resize_trainset_and_generate_masks(dsize=(img_height, img_width))
+    resize_trainset_and_generate_masks(dsize=(img_height, img_width))
 
     resize_testset(TESTSET_INPUT_FOLDER, TESTSET_RESIZED_FOLDER, (img_width, img_height))
 

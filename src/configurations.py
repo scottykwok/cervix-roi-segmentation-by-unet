@@ -38,7 +38,7 @@ UNET_VALMASK_SPLIT_FOLDER = ROOT_FOLDER + '/input/split_unet/val_mask_split/'
 ClassNames = ['Type_1', 'Type_2', 'Type_3']
 
 seed = 20170804
-use_symlinks = True  # Can be True if you are on linux
+use_symlinks = False  # Can be True if you are on linux
 split_proportion = 0.8
 
 learning_rate = 0.0001
