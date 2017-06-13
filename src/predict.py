@@ -86,7 +86,7 @@ def predict_and_crop(model, original_folder, resized_folder, output_folder, marg
 
     # Test images
     print('Input folder: {}'.format(resized_folder))
-    test_image_files = np.sort(glob.glob(os.path.join(resized_folder, FILE_PATTERN)))
+    test_image_files = np.sort(glob.glob(os.path.join(resized_folder, '*.png')))
     total = len(test_image_files)
     for i, filename in enumerate(test_image_files):
         if i > 0 and i % 50 == 0:
@@ -104,19 +104,22 @@ def predict_and_crop(model, original_folder, resized_folder, output_folder, marg
         morphed_mask = morphology_clean(binary_mask)
         x, y, w, h = find_bbox(morphed_mask, margin_factor)
 
-        original = cv2.imread(os.path.join(original_folder, basename))
+        original_img_file = os.path.join(original_folder, basename.replace('.png', '.jpg'))
+        original = cv2.imread(original_img_file)
+        if original is None:
+            raise AssertionError("Cannot read the original image:{}".format(original_img_file))
 
         # transform bbox back to original dimension
         x1, y1, w1, h1 = transform_bbox(bbox=(x, y, w, h), from_dim=morphed_mask.shape, to_dim=original.shape[0:2])
 
         if generate_crops:
             cropped = original[y1:y1 + h1, x1:x1 + w1, :]
-            cropped_filename = os.path.join(output_folder, basename.replace('.jpg', OUTPUT_FILE_EXT))
+            cropped_filename = os.path.join(output_folder, basename.replace('.png', OUTPUT_FILE_EXT))
             cv2.imwrite(cropped_filename, cropped)
 
         # For debug & preview
         if generate_masks:
-            cv2.imwrite(os.path.join(output_folder, basename.replace('.jpg', '_mask.png')), morphed_mask)
+            cv2.imwrite(os.path.join(output_folder, basename.replace('.png', '_mask.png')), morphed_mask)
 
         if generate_previews:
             # Highlight the mask in original
@@ -126,7 +129,7 @@ def predict_and_crop(model, original_folder, resized_folder, output_folder, marg
             blue_channel = img_highlighted[:, :, 0]
             blue_channel[original_mask > 0] = 255
             cv2.rectangle(img_highlighted, (x1, y1), (x1 + w1, y1 + h1), (0, 255, 0), 3)
-            preview_filename = os.path.join(output_folder, basename.replace('.jpg', '_preview.jpg'))
+            preview_filename = os.path.join(output_folder, basename.replace('.png', '_preview.jpg'))
             cv2.imwrite(preview_filename, img_highlighted)
 
 
