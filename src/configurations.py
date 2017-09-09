@@ -5,23 +5,29 @@ ROOT_FOLDER = '..'
 
 FILE_PATTERN = '*.jpg'
 
+OUTPUT_FILE_EXT = '.png'
+
+### Set to True if testset you are predicting stage2 folder
+is_stg2 = False
+
+### How much extra margin we want to include when cropping the output images
+margin = 0.15
+#margin = 0.4   #0.4 seems to work best for my classifier
+
 ### Input folders
 TRAINSET_INPUT_FOLDER = ROOT_FOLDER + '/input/train'
-TESTSET_INPUT_FOLDER = ROOT_FOLDER + '/input/test'
+TESTSET_INPUT_FOLDER = ROOT_FOLDER + '/input/test_stg2' if is_stg2 else ROOT_FOLDER + '/input/test'
 ADDSET_INPUT_FOLDER = ROOT_FOLDER + '/input/additional'
 
 ### Output folders
-TESTSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/test_roi'
-TRAINSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/train_roi'
-ADDSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/additional_roi'
-OUTPUT_FILE_EXT = '.png'
+TESTSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/test_stg2_roi_{}'.format(margin) if is_stg2 else ROOT_FOLDER + '/input/test_roi_{}'.format(margin)
+TRAINSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/train_roi_{}'.format(margin)
+ADDSET_OUTPUT_FOLDER = ROOT_FOLDER + '/input/additional_roi_{}'.format(margin)
 
-### How much percentage of extra margin we want to include when cropping the output images
-margin = 0.15
 
 ### Temp working folders
 TRAINSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/train_resized'
-TESTSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/test_resized'
+TESTSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/test_stg2_resized' if is_stg2 else ROOT_FOLDER + '/input/test_resized'
 ADDSET_RESIZED_FOLDER = ROOT_FOLDER + '/input/additional_resized'
 VISUAL_RESIZED_FOLDER = ROOT_FOLDER + '/input/visual_resized'
 TRAINSET_RESIZED_MASK_FOLDER = ROOT_FOLDER + '/input/train_resized_mask'
@@ -37,8 +43,10 @@ UNET_VALMASK_SPLIT_FOLDER = ROOT_FOLDER + '/input/split_unet/val_mask_split/'
 #################
 ClassNames = ['Type_1', 'Type_2', 'Type_3']
 
+from sys import platform
+use_symlinks = platform == "linux" or platform == "linux2" or platform == "darwin"
+
 seed = 20170804
-use_symlinks = False  # Can be True if you are on linux
 split_proportion = 0.8
 
 learning_rate = 0.0001
