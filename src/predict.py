@@ -42,7 +42,7 @@ def find_bbox(mask_binary, margin_factor=None):
     # Find the index of the largest contour
     areas = [cv2.contourArea(c) for c in contours]
     if len(areas) == 0:
-        return (0, 0, mask_binary.shape[0], mask_binary.shape[1])
+        return (0, 0, mask_binary.shape[0], mask_binary.shape[1], False)
     else:
         max_index = np.argmax(areas)
         cnt = contours[max_index]
@@ -62,7 +62,7 @@ def find_bbox(mask_binary, margin_factor=None):
             Y = min(y + h, mask_binary.shape[0])
             w = X - x
             h = Y - y
-        return (int(x), int(y), int(w), int(h))
+        return (int(x), int(y), int(w), int(h), True)
 
 
 def transform_bbox(bbox, from_dim, to_dim):
@@ -102,7 +102,7 @@ def predict_and_crop(model, original_folder, resized_folder, output_folder, marg
         # extract binary mask
         binary_mask = to_binary_mask(predict[0])
         morphed_mask = morphology_clean(binary_mask)
-        x, y, w, h = find_bbox(morphed_mask, margin_factor)
+        x, y, w, h, success = find_bbox(morphed_mask, margin_factor)
 
         original_img_file = os.path.join(original_folder, basename.replace('.png', '.jpg'))
         original = cv2.imread(original_img_file)
@@ -115,7 +115,12 @@ def predict_and_crop(model, original_folder, resized_folder, output_folder, marg
         if generate_crops:
             cropped = original[y1:y1 + h1, x1:x1 + w1, :]
             cropped_filename = os.path.join(output_folder, basename.replace('.png', OUTPUT_FILE_EXT))
-            cv2.imwrite(cropped_filename, cropped)
+            if cropped.mean() <= 15 or not success: # a black crop or fail to find bounding box
+                from crop import cropCircle
+                img_crop, rectangle, tile_size = cropCircle(original, resize=None)
+                cv2.imwrite(cropped_filename, img_crop)
+            else:
+                cv2.imwrite(cropped_filename, cropped)
 
         # For debug & preview
         if generate_masks:
